@@ -1,0 +1,10 @@
+{
+  "xcodeVersion" : "Xcode 8.3\nBuild version 8E162",
+  "commitish" : "3.2.3",
+  "iOS" : [
+    {
+      "name" : "Result",
+      "md5" : "07f721e8cf3b7991456bbfcf1d6eb7c4"
+    }
+  ]
+}

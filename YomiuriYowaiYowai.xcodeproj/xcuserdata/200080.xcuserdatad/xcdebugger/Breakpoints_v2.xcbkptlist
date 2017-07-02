@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YomiuriYowaiYowai/AppDelegate.swift"
+            timestampString = "520303900.703677"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.AppDelegate.__deallocating_deinit"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/AppDelegate.swift"
+                  timestampString = "520389012.275357"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.AppDelegate.init () -&gt; YomiuriYowaiYowai.AppDelegate"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/AppDelegate.swift"
+                  timestampString = "520389012.279647"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.AppDelegate.__allocating_init () -&gt; YomiuriYowaiYowai.AppDelegate"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/AppDelegate.swift"
+                  timestampString = "520389012.281976"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/AppDelegate.swift"
+                  timestampString = "520389012.284393"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YomiuriYowaiYowai/SearchArticleViewController.swift"
+            timestampString = "520402260.609528"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "didReceiveMemoryWarning()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YomiuriYowaiYowai/UIColor.swift"
+            timestampString = "520390685.229239"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init(github:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YomiuriYowaiYowai/SearchArticleViewController.swift"
+            timestampString = "520390981.095538"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "SearchArticleViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.SearchArticleViewController.searchCancelButton.getter : __ObjC.UIBarButtonItem"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/SearchArticleViewController.swift"
+                  timestampString = "520402261.707811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.SearchArticleViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; YomiuriYowaiYowai.SearchArticleViewController"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/SearchArticleViewController.swift"
+                  timestampString = "520402261.711187"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.SearchArticleViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;YomiuriYowaiYowai.SearchArticleViewController&gt;"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/SearchArticleViewController.swift"
+                  timestampString = "520402261.714577"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "91">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YomiuriYowaiYowai/SearchArticleViewController.swift"
+            timestampString = "520393241.538858"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "SearchArticleViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.SearchArticleViewController.searchCancelButton.getter : __ObjC.UIBarButtonItem"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/SearchArticleViewController.swift"
+                  timestampString = "520402261.722411"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.SearchArticleViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; YomiuriYowaiYowai.SearchArticleViewController"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/SearchArticleViewController.swift"
+                  timestampString = "520402261.72518"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YomiuriYowaiYowai.SearchArticleViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;YomiuriYowaiYowai.SearchArticleViewController&gt;"
+                  moduleName = "YomiuriYowaiYowai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200080/Desktop/swift/YomiuriYowaiYowai/YomiuriYowaiYowai/SearchArticleViewController.swift"
+                  timestampString = "520402261.72767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "91">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
